@@ -1,5 +1,5 @@
 ### Olá Eu sou Raul Pereira 🫡
-
+### Essas sao as linguagens que estudo e utilizo
 <div align="left">
   <a href="https://github.com/RaullPereira">
 </div>
