@@ -1,6 +1,6 @@
 ### Olá Eu sou Raul Pereira 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RaullPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaullPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
