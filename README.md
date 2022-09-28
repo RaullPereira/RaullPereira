@@ -1,4 +1,4 @@
-### Olá Eu sou Raul Pereira 👋
+### Olá Eu sou Raul Pereira 🫡
 
 <div align="left">
   <a href="https://github.com/RaullPereira">
