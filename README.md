@@ -1,5 +1,5 @@
 ### Hi I'm Raul Pereira 🫡
-### Languages ​​I Use:
+### Programming and markup languages ​​I use
 <div align="left">
   <a href="https://github.com/RaullPereira">
 </div>
