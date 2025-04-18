@@ -1,2 +1,2 @@
 ### Hi I'm Raul Pereira 🫡
-### UX UI
+### UX UI and Front-End Developer Mobile and Desktop
